@@ -6,8 +6,8 @@
 
 body {
     padding: 2rem;
-    background-color: #000080;
-    color: navy;
+    background-color: #000000;
+    color: black;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
